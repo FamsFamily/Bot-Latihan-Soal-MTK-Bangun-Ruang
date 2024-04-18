@@ -386,4 +386,4 @@ async def volume_bangun_ruang(ctx, count = 10):
         await ctx.send(pert)
         await ctx.send(jaw)
 
-bot.run("MTIyOTI3NDkyNzI4MzMwNjU5OA.GQ0W8M.Z5zEhydJiK9pkmXb-A-wY1hNJnM9dmpNNUyCMc")
+bot.run("OKEN RAHASIA ADA DI SINI")
