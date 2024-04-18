@@ -386,4 +386,4 @@ async def volume_bangun_ruang(ctx, count = 10):
         await ctx.send(pert)
         await ctx.send(jaw)
 
-bot.run("OKEN RAHASIA ADA DI SINI")
+bot.run("TOKEN RAHASIA ADA DI SINI")
