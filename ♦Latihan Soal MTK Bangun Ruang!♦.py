@@ -19,7 +19,9 @@ async def halo(ctx):
     await ctx.send(f'''
 # Hai! Saya {bot.user}!
 
-## Hal yang bisa saya lakukan:
+## Matematika itu susah? Tidak! Kita hanya butuh lebih banyak latihan! Berlatihlah soal matematika tentang Bangun Ruang di _Bot ini!_
+
+## Perintah:
 - **Menampilkan soal tentang luas permukaan bangun ruang. Perintah:**
  - ```$luas_permukaan_bangun_ruang 9```*
 - **Menampilkan soal tentang volume bangun ruang. Perintah:**
