@@ -28,7 +28,7 @@ async def halo(ctx):
 
 - _Note: Mohon maaf terkadang ada sedikit kesalahan pada angka desimal._
 
-## GitHub: https://github.com/FamsFamily/BotFF1_Discord.git
+## GitHub: https://github.com/FamsFamily/Bot-Latihan-Soal-MTK-Bangun-Ruang.git
 ''')
 
 bangun_ruang = ['kubus', 'balok', 'prisma segitiga', 'prisma segiempat', 'tabung', 'limas segitiga', 'limas segiempat', 'kerucut', 'bola']
